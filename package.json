@@ -1,0 +1,36 @@
+{
+  "name": "react-light-dark-mode-button",
+  "version": "1.0.0",
+  "description": "A stylish React library for implementing light and dark mode buttons.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "light mode",
+    "dark mode",
+    "button",
+    "styled-components"
+  ],
+  "author": {
+    "name": "Mohammad Shoeb Faizan",
+    "github": "https://github.com/Mohammad-Shoeb-Faizan",
+    "linkedin": "https://www.linkedin.com/in/mohammad-shoeb-faizan-5787a0271/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-react": "^7.22.15"
+  },
+  "dependencies": {
+    "styled-components": "^6.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohammad-Shoeb-Faizan/react-light-dark-mode-button"
+  }
+}
